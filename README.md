@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner Mao Mao -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elfanpradita/Elfanpradita/main/assets/banner.png" alt="Banner" width="100%">
+  <img src="https://i.imgur.com/6TqVt9n.jpg" alt="Mao Mao Banner" width="100%">
 </p>
 
 <!-- Typing Animation -->
