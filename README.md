@@ -1,8 +1,12 @@
 <!-- Banner -->
-<img src="https://your-image-url.com/banner.png" alt="Banner" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elfanpradita/Elfanpradita/main/assets/banner.png" alt="Banner" width="100%">
+</p>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&lines=Hello,+I'm+Elpun!;I+Love+Coding!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&lines=Hello,+I'm+Elfan!;I+Love+Coding!;Welcome+to+my+GitHub!" />
+</p>
 
 ---
 
@@ -16,11 +20,11 @@
 
 ## 🚀 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Elpun378&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elpun378&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Elfanpradita&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elfanpradita&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elpun378&theme=onedark&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Elfanpradita&theme=onedark&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -44,7 +48,7 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Elpun378/Elpun378/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Elfanpradita/Elfanpradita/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
