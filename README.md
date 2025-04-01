@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="My Custom GIF Banner" width="100%">
+  <img src="assets/banner.gif" alt="My Custom GIF Banner" width="50%">
 </p>
 
 <!-- Typing Animation -->
