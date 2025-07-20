@@ -50,8 +50,6 @@
   <img src="https://github.com/Elfanpradita/Elfanpradita/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
-> **Note:** Pastikan kamu sudah mengaktifkan GitHub Actions dengan file workflow `.github/workflows/snake.yml`
-
 ---
 
 ## 🌍 Let's Connect!  
