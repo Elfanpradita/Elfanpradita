@@ -10,10 +10,10 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎮 Roblox & Blox Fruits content creator.  
-- 💻 Coding: Laravel, Vue.js, Node.js.  
-- 🏢 Founder of **Elfan Eight** & **Elpun Community**.  
-- 🎥 YouTube: [Elpun378](https://www.youtube.com/@Elpun378)  
+- 🎮 Roblox & Blox Fruits content creator  
+- 💻 Coding: Laravel, Vue.js, Node.js  
+- 🏢 Founder of **Elfan Eight** & **Elpun Community**  
+- 🎥 YouTube: [Elpun378](https://www.youtube.com/@Elpun378)
 
 ---
 
@@ -47,11 +47,13 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elfanpradita/Elfanpradita/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Elfanpradita/Elfanpradita/raw/output/github-contribution-grid-snake.svg" />
 </p>
+
+> **Note:** Pastikan kamu sudah mengaktifkan GitHub Actions dengan file workflow `.github/workflows/snake.yml`
 
 ---
 
 ## 🌍 Let's Connect!  
 💬 **Join My Discord Community:** [Elpun Community](https://discord.com/invite/fuphDKh6p4)  
-📺 **Subscribe to My YouTube:** [Elpun378](https://www.youtube.com/@Elpun378)  
+📺 **Subscribe to My YouTube:** [Elpun378](https://www.youtube.com/@Elpun378)
