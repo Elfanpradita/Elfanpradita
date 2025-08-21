@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="My Custom GIF Banner" width="80%">
+  <img src="assets/banner.gif" alt="My Custom GIF Banner" width="50%">
 </p>
 
 <h1 align="center">
