@@ -1,57 +1,57 @@
-<p align="center">
-  <img src="assets/banner.gif" alt="My Custom GIF Banner" width="50%">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=true&vCenter=true&lines=Selamat+Datang+di+Profil+Saya!;Saya+Elfan+Pradita,+" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF5C5C&center=true&vCenter=true&lines=Web+Developer+%7C+Content+Creator" />
+</div>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&lines=Hello,+I'm+Elfan!;I+Love+Coding!;Welcome+to+my+GitHub!" />
-</p>
-
----
-
-## 👨‍💻 About Me  
-- 🎮 Roblox & Blox Fruits content creator  
-- 💻 Coding: Laravel, Vue.js, Node.js  
-- 🏢 Founder of **Elfan Eight** & **Elpun Community**  
-- 🎥 YouTube: [Elpun378](https://www.youtube.com/@Elpun378)
+<div align="center">
+  <a href="https://github.com/Elfanpradita">
+    <img src="https://komarev.com/ghpvc/?username=Elfanpradita&color=blueviolet" alt="Profile views">
+  </a>
+</div>
 
 ---
 
-## 🚀 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elfanpradita&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elfanpradita&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+### 👨‍💻 Tentang Saya
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elfanpradita&theme=tokyonight" width="80%" />
-</p>
+Halo! Nama saya Elfan Pradita. Saya seorang **Full-Stack Web Developer** yang bersemangat dalam dunia coding. Ketika tidak sedang membuat website, saya bisa ditemukan sedang bermain **Roblox** dan membuat konten untuk YouTube.
+
+* 🔭 Saya sedang membangun beberapa proyek pribadi menggunakan **Laravel** dan **Vue.js**.
+* 🌱 Saat ini saya sedang mendalami **Node.js** dan teknologi server-side lainnya.
+* 👯 Senang berkolaborasi di proyek open-source!
 
 ---
 
-## 🛠️ Tech Stack  
+### ⚙️ Teknologi yang Saya Gunakan
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MikroTik-EE0000?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,vue,mysql,mongodb,git,vscode" alt="Tech Stack Icons">
 </p>
 
 ---
 
-## 🎮 My Favorite Games  
-🎯 Blox Fruits | 🎮 Roblox | 🏝️ Fish Game  
+### 🔥 Statistik GitHub
+
+<div align="center">
+  <a href="https://github.com/Elfanpradita">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elfanpradita&layout=compact&theme=dark" alt="Top Languages" width="45%" />
+  </a>
+  <a href="https://github.com/Elfanpradita">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elfanpradita&theme=dark" alt="GitHub Streak" width="45%" />
+  </a>
+</div>
 
 ---
 
-## 🐍 Contribution Snake  
+### 🏆 Kontribusi & Aktivitas
+
 <p align="center">
-  <img src="https://github.com/Elfanpradita/Elfanpradita/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Elfanpradita/Elfanpradita/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-## 🌍 Let's Connect!  
-💬 **Join My Discord Community:** [Elpun Community](https://discord.com/invite/fuphDKh6p4)  
-📺 **Subscribe to My YouTube:** [Elpun378](https://www.youtube.com/@Elpun378)
+### 🕹️ Mari Berteman!
+
+* 👾  **Discord:** [Elpun Community](https://discord.com/invite/fuphDKh6p4)
+* ▶️  **YouTube:** [Elpun378](https://www.youtube.com/@Elpun378)
+* ✉️  **Email:** [elfan.pradita@email.com](mailto:elfan.pradita@email.com)
