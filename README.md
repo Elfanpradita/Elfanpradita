@@ -1,57 +1,85 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=true&vCenter=true&lines=Selamat+Datang+di+Profil+Saya!;Saya+Elfan+Pradita,+" />
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF5C5C&center=true&vCenter=true&lines=Web+Developer+%7C+Content+Creator" />
-</div>
+<p align="center">
+  <img src="assets/banner.gif" alt="My Custom GIF Banner" width="80%">
+</p>
 
-<div align="center">
-  <a href="https://github.com/Elfanpradita">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&lines=Hello,+I'm+Elfan!;I+Love+Coding!;Welcome+to+my+GitHub!" />
+</h1>
+
+---
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Elfanpradita&color=blueviolet" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Elfanpradita&color=blueviolet" alt="Profile views">
   </a>
-</div>
+</p>
+
+<p align="center">
+  Halo! Saya **Elfan Pradita**, seorang web developer yang bersemangat. 
+  <br>
+  Senang membangun solusi kreatif dan berkontribusi di komunitas.
+</p>
 
 ---
 
 ### 👨‍💻 Tentang Saya
 
-Halo! Nama saya Elfan Pradita. Saya seorang **Full-Stack Web Developer** yang bersemangat dalam dunia coding. Ketika tidak sedang membuat website, saya bisa ditemukan sedang bermain **Roblox** dan membuat konten untuk YouTube.
-
-* 🔭 Saya sedang membangun beberapa proyek pribadi menggunakan **Laravel** dan **Vue.js**.
-* 🌱 Saat ini saya sedang mendalami **Node.js** dan teknologi server-side lainnya.
-* 👯 Senang berkolaborasi di proyek open-source!
+* 🔭 Saya sedang fokus mengembangkan proyek-proyek menggunakan **Laravel**, **Node.js**, dan **Vue.js**.
+* 🌱 Saya selalu belajar hal-hal baru. Saat ini, saya sedang mendalami **DevOps** dan **Cloud Computing**.
+* ⚡ Sebagai founder dari **Elfan Eight** dan **Elpun Community**, saya percaya pada kekuatan kolaborasi.
+* 🎮 Di luar coding, saya adalah **Roblox** dan **Blox Fruits content creator** di YouTube.
 
 ---
 
-### ⚙️ Teknologi yang Saya Gunakan
+### ⚙️ Teknologi & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,vue,mysql,mongodb,git,vscode" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,vue,js,ts,html,css,mysql,mongodb,git,github,vscode,figma,photoshop" alt="Tech Stack Icons">
 </p>
 
 ---
 
-### 🔥 Statistik GitHub
+### 🔥 GitHub Stats & Aktivitas
 
 <div align="center">
-  <a href="https://github.com/Elfanpradita">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elfanpradita&layout=compact&theme=dark" alt="Top Languages" width="45%" />
-  </a>
-  <a href="https://github.com/Elfanpradita">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elfanpradita&theme=dark" alt="GitHub Streak" width="45%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Elfanpradita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elfanpradita&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak">
 </div>
 
----
-
-### 🏆 Kontribusi & Aktivitas
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elfanpradita/Elfanpradita/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elfanpradita&theme=tokyonight" width="80%" alt="GitHub Profile Summary">
 </p>
 
 ---
 
-### 🕹️ Mari Berteman!
+### 🏆 Top Languages & Repositories
 
-* 👾  **Discord:** [Elpun Community](https://discord.com/invite/fuphDKh6p4)
-* ▶️  **YouTube:** [Elpun378](https://www.youtube.com/@Elpun378)
-* ✉️  **Email:** [elfan.pradita@email.com](mailto:elfan.pradita@email.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elfanpradita&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+---
+
+### 🌐 Mari Terhubung!
+
+<p align="center">
+  <a href="https://www.youtube.com/@Elpun378" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://discord.com/invite/fuphDKh6p4" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:emailanda@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Elfanpradita/Elfanpradita/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
